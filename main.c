@@ -15,6 +15,8 @@
 #include <simplelink.h>
 #include <utils.h>
 
+#include <WiFiCC3200.h>
+
 #include "pin_mux_config.h"
 
 void info(const char* message);
